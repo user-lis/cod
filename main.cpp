@@ -15,6 +15,7 @@ using namespace std;
 **/
 новое изменение
 **/
+lalalalalala
 
 int main()
 { 
