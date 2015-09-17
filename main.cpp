@@ -12,10 +12,6 @@ using namespace std;
 **/
 учусь пользоваться Git
 **/
-**/
-новое изменение
-**/
-lalalalalala
 
 int main()
 { 
